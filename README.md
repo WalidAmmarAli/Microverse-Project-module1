@@ -148,7 +148,7 @@ If you like this project you can download it from https://github.com/WalidAmmarA
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ  <a name="faq"></a>
 
 
 - What is the main funtion of this page ?
