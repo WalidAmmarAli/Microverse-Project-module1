@@ -158,9 +158,9 @@ If you like this project you can download it from https://github.com/WalidAmmarA
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
-- **[What is the main funtion of this page ?]**
+- What is the main funtion of this page ?
 
-  - [this page is only a simple presentation of microverse hello]
+  - This page is only a simple presentation of microverse hello
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
