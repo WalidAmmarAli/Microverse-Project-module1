@@ -35,23 +35,23 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Database</summary>
+<summary>Github</summary>
   <ul>
     <li><a href="https://github.com/">Github</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Html</summary>
   <ul>
     <li><a href="https://html.com/">Html</a></li>
   </ul>
 </details>
 
 <details>
-<summary></summary>
+<summary>Css</summary>
   <ul>
-    <li><a href="https://html.com/">Html</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">Htm</a></li>
   </ul>
 </details>
 
