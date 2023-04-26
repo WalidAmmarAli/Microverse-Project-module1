@@ -58,11 +58,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Add linter to resolve some hmtl and css issue**
 - **Add the html and h1 tag**
-- **Add Css to styles*
+- **Add Css to styles**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
