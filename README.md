@@ -12,8 +12,8 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
--
-# 📗 Table of Contents
+
+📗 Table of Contents
 
  📖 About the Project
 🛠 Built With
