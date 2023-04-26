@@ -28,7 +28,7 @@
 # 📖 [Hello Microverse project] <a name="about-project"></a>
 
 
-**[Hello Microverse project]** is a the first Microverse's project. It is a web to say hello Microverse.
+**Hello Microverse project** is a the first Microverse's project. It is a web to say hello Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,8 +60,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[Add linter to resolve some hmtl and css issue]**
-- **[Add the html and h1 tag]**
+- **Add linter to resolve some hmtl and css issue**
+- **Add the html and h1 tag**
+- **Add Css to styles*
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -71,9 +72,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -112,7 +111,6 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -124,9 +122,6 @@ To run tests, run the following command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-
-**[add linters to correct Html and Css]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -160,7 +155,7 @@ If you like this project you can download it from https://github.com/WalidAmmarA
 
 - What is the main funtion of this page ?
 
-  - This page is only a simple presentation of microverse hello
+  - This page is only a simple presentation of microverse hello.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
