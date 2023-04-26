@@ -1,70 +1,78 @@
-# Microverse-Project-module1
-# Hello-Microverse
+<a name="readme-top"></a>
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-- Built With
-- Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
 
 # 📗 Table of Contents
 
- 📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-# 📖 [Hello Microverse project]
 
-> Describe your project in 1 or 2 sentences.
+# 📖 [Hello Microverse project] <a name="about-project"></a>
 
-**[Hello Microverse project]** is a the first Microverse's project
 
-## 🛠 Built With Html and Css.
+**[Hello Microverse project]** is a the first Microverse's project. It is a web to say hello Microverse.
+
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://github.com/">Github</a></li>
+  </ul>
+</details>
 
 <details>
-  <summary>Client</summary>
+<summary>Database</summary>
   <ul>
     <li><a href="https://html.com/">Html</a></li>
   </ul>
- </details>
-atures <a name="key-features"></a>
+</details>
+
+<details>
+<summary></summary>
+  <ul>
+    <li><a href="https://html.com/">Html</a></li>
+  </ul>
+</details>
+
+
+
+
+### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Add linter to resolve some hmtl and css issue]**
+- **[Add the html and h1 tag]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -84,10 +92,10 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: Html and css
+In order to run this project you need:
 
 <!--
-Example command: git clone
+Example command:
 
 ```sh
  gem install rails
@@ -160,7 +168,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Ammar Ali"></a>
+## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -177,15 +185,12 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+**[add linters to correct Html and Css]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -195,7 +200,6 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -221,17 +225,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What is the main funtion of this page ?]**
 
-  - [Answer_1]
+  - [this page is only a simple presentation of microverse hello]
 
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
