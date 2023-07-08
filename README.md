@@ -9,7 +9,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -75,17 +74,19 @@
 ### Prerequisites
 
 In order to run this project you need:
+Code editor 
 
 
 
 ### Setup
 
 Clone this repository to your desired folder:
+use git clone https://github.com/ammarAlaliS/Microverse-Project-module1.git
 
 
 ### Install
 
-Install this project with:
+Install this project with: git clone https://github.com/ammarAlaliS/Microverse-Project-module1.git
 
 
 
